@@ -12,7 +12,7 @@
 
 </head>
 <body style=" background-color:rgb(199, 255, 250) ;">
-  <nav class="navbar navbar-expand-lg bg-secondary border-bottom border-5 border-light">
+  <nav class="navbar navbar-expand-lg bg-primary border-bottom border-5 border-light">
     <div class="container-fluid">
       <a class="navbar-brand text-white fw-bold" href="index.php">
         <h1 class="mb-0"><i class="bi bi-lightbulb"></i></i><b>&nbsp; myiami</b></h1>
